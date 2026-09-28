@@ -1,0 +1,1 @@
+Download the Task 1 dataset through the dataset link in the supplied CodSoft internship PDF. Put train_data.txt here. Expected format: ID ::: TITLE ::: GENRE ::: DESCRIPTION. Dataset files are intentionally excluded from Git.
