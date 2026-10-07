@@ -1,1 +1,2 @@
-Download the Task 1 dataset through the dataset link in the supplied CodSoft internship PDF. Put train_data.txt here. Expected format: ID ::: TITLE ::: GENRE ::: DESCRIPTION. Dataset files are intentionally excluded from Git.
+Download the Genre Classification Dataset IMDb from Kaggle: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+Place `train_data.txt` in this directory. Expected format: ID ::: TITLE ::: GENRE ::: DESCRIPTION. Do not commit raw data.
